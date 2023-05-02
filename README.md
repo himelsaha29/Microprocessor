@@ -1,7 +1,7 @@
 # Microprocessor
 
 <p align="center">
-  <img src="misc/img.jpg">
+  <img src="misc/img.jpg" width="50%">
 </p>
 
 
